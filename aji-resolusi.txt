@@ -2,3 +2,4 @@ AJI RESOLUSI
 - Memahami R Programming
 - Memahami Python Programming
 - Memahami Working with Git & GitHub
+- Memahami Konsep Docker
