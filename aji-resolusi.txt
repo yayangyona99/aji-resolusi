@@ -3,4 +3,4 @@ AJI RESOLUSI
 * Memahami konsep dplyr
 - Memahami Python Programming
 - Memahami Working with Git & GitHub
-- Memahami Konsep Docker
+
