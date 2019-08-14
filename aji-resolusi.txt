@@ -1,3 +1,4 @@
 AJI RESOLUSI
 - Memahami R Programming
 - Memahami Big Data Analytics with R and Spark
+- Memahami Python Programming
